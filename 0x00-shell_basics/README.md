@@ -5,4 +5,5 @@ echo '3-listfiles' Display current directory contents in a long format. \n
 echo '4-listmorefiles' Display current directory contents, including hidden files (starting with .).
 echo '5-listfilesdigitonly' Display current directory content with the following Long format \n 
 with user and group IDs displayed numerically
-echo '6-firstdirectory' A script that creates a directory in the tmp directory
+echo '6-firstdirectory' A script that creates a directory in the tmp directory \n
+echo '7-movethatfile' move a file to a new directory
