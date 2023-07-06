@@ -7,3 +7,10 @@ echo '5-listfilesdigitonly' Display current directory content with the following
 with user and group IDs displayed numerically
 echo '6-firstdirectory' A script that creates a directory in the tmp directory \n
 echo '7-movethatfile' move a file to a new directory
+echo '8-firstdelete' deleting a file from directory
+echo '9-firstdirdeletion' directory deletion
+echo '10-back' going back to the previous directory
+echo '11-lists' listing directories in order with their content and the current directory includding hidden files
+echo '12-file type' showing the file type
+echo '13-symbolic link' a symbolic link
+echo '14-copy html' copying a html file
