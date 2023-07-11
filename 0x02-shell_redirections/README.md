@@ -3,3 +3,4 @@
 1-confused_smiley script to print a confused smiley
 2-hellofile script to display file content
 3-twofiles script to display content of two files
+4-lastlines script to display the last 10 lines of a file
