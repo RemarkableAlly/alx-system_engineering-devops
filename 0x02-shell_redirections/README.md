@@ -4,3 +4,4 @@
 2-hellofile script to display file content
 3-twofiles script to display content of two files
 4-lastlines script to display the last 10 lines of a file
+5-firstlines script to display the first 10 lines of a file\'s content
