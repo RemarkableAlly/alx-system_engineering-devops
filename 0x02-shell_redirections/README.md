@@ -11,3 +11,5 @@
 9-duplicate_last_line script to duplicate the last line of the of the file's content
 10-no_more_js script to delete all files with a extention '.js'
 12-newest_files script to displays the 10 newest files in the current directory
+13-unique script to sort and  takes a list of words as input and prints only words that appear exactly once.
+14-findthatword script to lines contenting root pattern
