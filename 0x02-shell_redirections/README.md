@@ -8,3 +8,4 @@
 6-third_line script to view the 3rd line of a file content
 7-file script to create a file and add contetnt in it
 8-cwd_state script adds content to a file and if the file does not exist a file is created
+9-duplicate_last_line script to duplicate the last line of the of the file's content
