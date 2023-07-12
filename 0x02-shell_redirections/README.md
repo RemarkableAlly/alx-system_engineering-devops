@@ -13,3 +13,4 @@
 12-newest_files script to displays the 10 newest files in the current directory
 13-unique script to sort and  takes a list of words as input and prints only words that appear exactly once.
 14-findthatword script to lines contenting root pattern
+15-countthatword script to count a number of lines containing a words in a file
