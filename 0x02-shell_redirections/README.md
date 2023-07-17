@@ -14,3 +14,4 @@
 13-unique script to sort and  takes a list of words as input and prints only words that appear exactly once.
 14-findthatword script to lines contenting root pattern
 15-countthatword script to count a number of lines containing a words in a file
+16-whatsnext | Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
